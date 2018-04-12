@@ -1,5 +1,5 @@
 var helloWorld = function() {
-  return ''
+  return 'xD'
 }
 
 module.exports = helloWorld
